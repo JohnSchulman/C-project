@@ -1,0 +1,18 @@
+C:\Users\john\source\repos\TP_1\TP_1\obj\Debug\TP_1.csprojAssemblyReference.cache
+C:\Users\john\source\repos\TP_1\TP_1\obj\Debug\TP_1.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\TP_1\TP_1\bin\Debug\TP_1.exe.config
+C:\Users\john\source\repos\TP_1\TP_1\bin\Debug\TP_1.exe
+C:\Users\john\source\repos\TP_1\TP_1\bin\Debug\TP_1.pdb
+C:\Users\john\source\repos\TP_1\TP_1\obj\Debug\TP_1.exe
+C:\Users\john\source\repos\TP_1\TP_1\obj\Debug\TP_1.pdb
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\obj\Debug\TP_1.csprojAssemblyReference.cache
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\obj\Debug\TP_1.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\obj\Debug\TP_1.exe
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\obj\Debug\TP_1.pdb
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\bin\Debug\TP_1.exe.config
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\bin\Debug\TP_1.exe
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\bin\Debug\TP_1.pdb
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\john\Desktop\2eme Année SIO\C# - Jeremy\C# TP - Entrainement\TP_1\TP_1\obj\Debug\TP_1.csproj.CopyComplete
