@@ -1,0 +1,20 @@
+@import "../../../../global.module.scss";
+
+.wrapper {
+  display: flex;
+  margin-left: 20px;
+
+  .lineNumber {
+    margin-right: 15px;
+    width: 45px;
+    border-right: 1px solid grey;
+  }
+
+  .input {
+    flex: 2;
+    color: $white;
+    background-color: unset;
+    outline: unset;
+    border: none;
+  }
+}

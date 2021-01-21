@@ -1,0 +1,46 @@
+@import "../../../../../../global.module.scss";
+
+.wrapper {
+  white-space: nowrap;
+  overflow-x: hidden;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+
+  .icon {
+    margin-left: 25px;
+    margin-right: 3px;
+
+    .success * {
+      color: $darkFlashGreen;
+    }
+
+    .fail * {
+      color: $darkRed;
+    }
+  }
+}
+
+.wrapper:hover {
+  border-left: 3px solid $darkMagenta;
+  border-bottom-right-radius: $radius;
+  border-top-right-radius: $radius;
+  background-color: $darkGreen;
+
+  .icon {
+    margin-left: 20px;
+
+    .success * {
+      color: $lightFlashGreen;
+    }
+
+    .fail * {
+      color: $verylightRed;
+    }
+  }
+
+  .text {
+    color: $veryLightGreen;
+  }
+}

@@ -1,0 +1,41 @@
+@import "../../../../global.module";
+
+.wrapper {
+  overflow-y: auto;
+  margin-right: 2px;
+  height: 100%;
+
+  * {
+    color: $veryDarkGreen;
+  }
+
+  .level {
+    border-bottom: 1px solid $darkGreen;
+  }
+
+  .level:last-of-type {
+    border-bottom: none;
+  }
+}
+
+/* width */
+.wrapper::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+.wrapper::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 0;
+  border-radius: $radius;
+}
+
+/* Handle */
+.wrapper::-webkit-scrollbar-thumb {
+  background: $darkGreen;
+  border-radius: $radius;
+}
+
+/* Handle on hover */
+.wrapper::-webkit-scrollbar-thumb:hover {
+  background: $darkGreen;
+}

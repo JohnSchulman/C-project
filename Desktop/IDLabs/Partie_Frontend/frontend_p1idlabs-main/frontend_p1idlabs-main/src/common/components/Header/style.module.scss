@@ -1,0 +1,43 @@
+@import "../../../global.module.scss";
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+
+  h1 {
+    color: $darkGreen;
+
+    span {
+      color: $darkMagenta;
+    }
+  }
+
+  .logoYnov {
+    margin-left: 23px;
+  }
+
+  .userBar {
+    align-self: flex-end;
+    display: flex;
+
+    .coloredAngleLine {
+      display: inline-block;
+      height: 0;
+      width: 0;
+      border-bottom: 50px solid $veryLightGreen;
+      border-left: 50px solid $darkGreen;
+    }
+
+    .transparentAngleLine {
+      position: absolute;
+      display: inline-block;
+      height: 0;
+      width: 0;
+      border-bottom: 50px solid transparent;
+      border-left: 50px solid $white;
+      right: 299px;
+    }
+  }
+}

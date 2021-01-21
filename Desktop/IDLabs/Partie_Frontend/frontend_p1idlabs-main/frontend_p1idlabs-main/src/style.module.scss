@@ -1,0 +1,21 @@
+@import "reset.module.scss";
+@import "global.module.scss";
+
+.app {
+  font-family: $font;
+}
+
+.header {
+  height: $header-size;
+  background-color: $white;
+  min-height: $header-size-min;
+}
+
+.mainPage {
+  height: calc(100% - (#{$header-size} + #{$footer-size}));
+}
+
+.footer {
+  height: $footer-size;
+  background-color: $white;
+}

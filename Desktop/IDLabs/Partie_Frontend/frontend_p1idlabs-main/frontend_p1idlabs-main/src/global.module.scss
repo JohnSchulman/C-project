@@ -1,0 +1,41 @@
+$font: "Montserrat", Helvetica, Arial, sans-serif;
+
+$lightSeaGreen: #23b2a4;
+$white: #ffffff;
+$pineGreen: #067a6f;
+$turquoise: #0ee3ce;
+$darkGreen: #143330;
+$veryDarkGreen: #08211e;
+$darkMagenta: darkmagenta;
+$darkRed: darkred;
+$veryLightGreen: #42ab9e;
+$verylightRed: rgb(235, 93, 93);
+$lightFlashGreen: #00ca06;
+$darkFlashGreen: #007d0f;
+
+$radius: 6px;
+$header-size: 8%;
+$footer-size: 0%;
+$header-size-min: 70px;
+
+:export {
+  font: $font;
+
+  lightSeaGreen: $lightSeaGreen;
+  white: $white;
+  pineGreen: $pineGreen;
+  turquoise: $turquoise;
+  darkGreen: $darkGreen;
+  veryDarkGreen: $veryDarkGreen;
+  darkMagenta: $darkMagenta;
+  darkRed: $darkRed;
+  veryLightGreen: $veryLightGreen;
+  verylightRed: $verylightRed;
+  lightFlashGreen: $lightFlashGreen;
+  darkFlashGreen: $darkFlashGreen;
+
+  radius: $radius;
+  header-size: $header-size;
+  footer-size: $footer-size;
+  header-size-min: $header-size-min;
+}

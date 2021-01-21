@@ -1,0 +1,19 @@
+@import "../../../global.module.scss";
+
+.button {
+  border: none;
+  background: none;
+  color: $veryDarkGreen;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+.button:hover {
+  background-color: $darkGreen;
+  border-radius: $radius;
+  color: $veryLightGreen;
+}
+
+.button:focus {
+  outline: none;
+}

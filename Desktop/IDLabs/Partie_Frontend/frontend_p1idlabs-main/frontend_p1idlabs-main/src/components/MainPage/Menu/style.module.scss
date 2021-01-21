@@ -1,0 +1,43 @@
+@import "../../../global.module.scss";
+
+$iconsHeight: 40px;
+$searchBarHeight: 58px;
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100%;
+
+  .icons {
+    height: $iconsHeight;
+    border-left: 3px solid $darkMagenta;
+    padding: 6px 10px;
+    display: flex;
+    justify-content: space-between;
+
+    .icon {
+      color: $white;
+    }
+    .icon:hover {
+      background-color: $white;
+      color: $darkGreen;
+    }
+  }
+
+  .searchBarAndLevelListWrapper {
+    height: calc(100% - #{$iconsHeight});
+    display: flex;
+    flex-direction: column;
+    background-color: $veryLightGreen;
+    border-top-right-radius: $radius;
+
+    .searchBar {
+      height: $searchBarHeight;
+    }
+
+    .levelList {
+      height: calc(100% - #{$searchBarHeight});
+    }
+  }
+}

@@ -1,0 +1,31 @@
+@import "../../../../global.module.scss";
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  border: 1px solid $veryDarkGreen;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  padding: 5px;
+  background-color: $veryLightGreen;
+  color: $veryDarkGreen;
+
+  .userIcon {
+    float: left;
+    margin-right: 10px;
+  }
+
+  .rank {
+    margin-left: 10px;
+    border-right: 1px solid $veryDarkGreen;
+
+    > * {
+      margin-right: 10px;
+    }
+  }
+
+  .logButton {
+    margin-left: 5px;
+  }
+}

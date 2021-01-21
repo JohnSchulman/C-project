@@ -1,0 +1,9 @@
+@import "../../../global.module.scss";
+
+.wrapper {
+  cursor: pointer;
+  padding: 3px 6px;
+  border-radius: $radius;
+  display: flex;
+  align-items: center;
+}
